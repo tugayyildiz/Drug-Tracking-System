@@ -1,0 +1,11 @@
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\bin\Debug\giris_form.exe.config
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\bin\Debug\giris_form.exe
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\bin\Debug\giris_form.pdb
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\medicine.csprojAssemblyReference.cache
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\giris_form.ilac_ekle_form.resources
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\giris_form.Properties.Resources.resources
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\medicine.csproj.GenerateResource.cache
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\medicine.csproj.CoreCompileInputs.cache
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\giris_form.exe
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\giris_form.pdb
+C:\Users\Tugay YILDIZ\source\repos\ilac\giris_form\obj\Debug\giris_form.giris_form.resources
