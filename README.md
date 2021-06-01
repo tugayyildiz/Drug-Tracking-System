@@ -1,1 +1,1 @@
-# Drug-Tracking-System
+# Pharmaceutical-Tracking-System
