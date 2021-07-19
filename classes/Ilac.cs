@@ -1,10 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace ilacTakip
+namespace giris_form
 {
-    class Ilac
+    public class Ilac
     {
+        public int ilacKodu { get; set; }
+        public string ilacAdi { get; set; }
+        public string ilacTuru { get; set; }
+        public string ilacStt { get; set; }
+        public string ilacEtken { get; set; }
+
     }
 }
